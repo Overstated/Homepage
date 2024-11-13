@@ -9,10 +9,11 @@ h1{
 body
 { text-align: center;
 background-color:#00632B ;
-margin: 0%;
+margin: auto;
 background-image: url("images/jurassic-bg.png");
 background-repeat: no-repeat;
 background-size: cover;
+
 }
 /*
 =================================================
@@ -104,6 +105,7 @@ CRYPTO
    bottom:30px;
    width:100%;
    z-index:1;
+   
 }
 
 
