@@ -101,7 +101,7 @@ CRYPTO
 */
 #crypto{
    opacity:0;
-   position:absolute;
+   position:
    bottom:30px;
    width:100%;
    z-index:1;
@@ -113,7 +113,7 @@ CRYPTO
    max-width:658px;
    width:100%;
    margin: auto;
-   position: ;
+   position: auto;
 }
   
 /*
